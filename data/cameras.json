@@ -1,0 +1,37 @@
+{
+    "cameras": [
+        {
+            "name": "Bucharest 01",
+            "link": "http://86.121.159.16/record/current.jpg",
+            "coords": {
+                "lat": 44.432250,
+                "lon": 26.106260
+            }
+        },
+        {
+            "name": "Bucharest 02",
+            "link": "http://82.76.145.217/record/current.jpg",
+            "coords": {
+                "lat": 44.456150,
+                "lon": 26.141265
+            }
+        },
+        {
+            "name": "Bucharest 03",
+            "link": "http://37.156.71.253/record/current.jpg",
+            "coords": {
+                "lat": 44.561976552,
+                "lon": 26.064183712
+            },
+            "skip": 1
+        },
+        {
+            "name": "Bucharest 04",
+            "link": "http://86.122.53.98:82/record/current.jpg",
+            "coords": {
+                "lat": 44.425807,
+                "lon": 26.128913
+            }
+        }
+    ]
+}
